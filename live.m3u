@@ -2,7 +2,7 @@
 #EXTINF:-1,UK-Sports-Premier League HD 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://123456789.blogdns.org:8000/live/vodechannelf3/ousLDbBMTv/72159.ts
 #EXTINF:-1,CCTV5+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://183.252.176.10/PLTV/88888888/224/3221225821/index.m3u8
+http://183.252.176.10/PLTV/88888888/224/3221225821/index.m3u8
 #EXTINF:-1,BEIN SPORTS 1 SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/15.ts
 #EXTINF:-1,BEIN SPORTS 2 SD
