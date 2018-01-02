@@ -1,39 +1,26 @@
-#EXTM3U
-#EXTINF:-1,UK-Sports-Premier League HD 
-plugin://plugin.video.f4mTester/?url=http://123456789.blogdns.org:8000/live/vodechannelf3/ousLDbBMTv/72159.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,CCTV5+
-plugin://plugin.video.f4mTester/?url=http://183.252.176.10/PLTV/88888888/224/3221225821/index.m3u8&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,BEIN SPORTS 1 SD
-plugin://plugin.video.f4mTester/?url=http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/15.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,BEIN SPORTS 2 SD
-plugin://plugin.video.f4mTester/?url=http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/14.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,BEIN SPORTS 3 SD
-plugin://plugin.video.f4mTester/?url=http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/13.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,BEIN SPORTS 4 SD
-plugin://plugin.video.f4mTester/?url=http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/12.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,BEIN SPORTS 5 SD
-plugin://plugin.video.f4mTester/?url=http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/11.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,BEIN SPORTS 6 SD
-plugin://plugin.video.f4mTester/?url=http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/10.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,BEIN SPORTS 7 SD
-plugin://plugin.video.f4mTester/?url=http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/9.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,BEIN SPORTS 8 SD
-plugin://plugin.video.f4mTester/?url=http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/8.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,BEIN SPORTS 9 SD
-plugin://plugin.video.f4mTester/?url=http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/7.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,BEIN SPORTS 10 SD
-plugin://plugin.video.f4mTester/?url=http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/6.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,BEIN SPORTS 11 SD
-plugin://plugin.video.f4mTester/?url=http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/5.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,BEIN SPORTS 12 SD
-plugin://plugin.video.f4mTester/?url=http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/4.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,BEIN SPORTS 13 SD
-plugin://plugin.video.f4mTester/?url=http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/3.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,BEIN SPORTS 14 SD
-plugin://plugin.video.f4mTester/?url=http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/2.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,BEIN SPORTS 15 SD
-plugin://plugin.video.f4mTester/?url=http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/1.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,BeIN Drama HD
-plugin://plugin.video.f4mTester/?url=http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/167.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,AD Sport 6
-plugin://plugin.video.f4mTester/?url=http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/168.ts&amp;streamtype=TSDOWNLOADER
+<streamingInfos>
+
+<item>
+
+<title>BEIN SPORTS 1 SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/15.ts</link>
+<title>BEIN SPORTS 2 SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/14.ts</link>
+<title>BEIN SPORTS 3 SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/13.ts</link>
+<title>BEIN SPORTS 4 SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/12.ts</link>
+<title>BEIN SPORTS 5 SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/11.ts</link>
+<title>BEIN SPORTS 6 SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/10.ts</link>
+<title>BEIN SPORTS 7 SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/9.ts</link>
+<title>BEIN SPORTS 8 SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/8.ts</link>
+<title>BEIN SPORTS 9 SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/7.ts</link>
+<title>BEIN SPORTS 10 SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/6.ts</link>
+<title>BEIN SPORTS 11 SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/5.ts</link>
