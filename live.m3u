@@ -6,7 +6,7 @@ http://183.252.176.10/PLTV/88888888/224/3221225821/index.m3u8
 #EXTINF:-1,BEIN SPORTS 1 SD
 http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/15.ts
 #EXTINF:-1,BEIN SPORTS 2 SD
-http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/14.ts
+plugin://plugin.video.f4mTester/?url=http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/14.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,BEIN SPORTS 3 SD
 http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/13.ts
 #EXTINF:-1,BEIN SPORTS 4 SD
