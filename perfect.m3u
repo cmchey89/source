@@ -1,36 +1,104 @@
-#EXTINF:-1,CCTV5+
-http://183.252.176.10/PLTV/88888888/224/3221225821/index.m3u8
-#EXTINF:-1,BEIN SPORTS 1 SD
-http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/15.ts
-#EXTINF:-1,BEIN SPORTS 2 SD
-http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/14.ts
-#EXTINF:-1,BEIN SPORTS 3 SD
-http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/13.ts
-#EXTINF:-1,BEIN SPORTS 4 SD
-http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/12.ts
-#EXTINF:-1,BEIN SPORTS 5 SD
-http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/11.ts
-#EXTINF:-1,BEIN SPORTS 6 SD
-http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/10.ts
-#EXTINF:-1,BEIN SPORTS 7 SD
-http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/9.ts
-#EXTINF:-1,BEIN SPORTS 8 SD
-http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/8.ts
-#EXTINF:-1,BEIN SPORTS 9 SD
-http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/7.ts
-#EXTINF:-1,BEIN SPORTS 10 SD
-http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/6.ts
-#EXTINF:-1,BEIN SPORTS 11 SD
-http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/5.ts
-#EXTINF:-1,BEIN SPORTS 12 SD
-http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/4.ts
-#EXTINF:-1,BEIN SPORTS 13 SD
-http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/3.ts
-#EXTINF:-1,BEIN SPORTS 14 SD
-http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/2.ts
-#EXTINF:-1,BEIN SPORTS 15 SD
-http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/1.ts
-#EXTINF:-1,BeIN Drama HD
-http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/167.ts
-#EXTINF:-1,AD Sport 6
-http://192.99.20.31:8080/live/winsor_RSSYZt/y1h8fHQ6/168.ts
+#EXTINF:-1,Adult | Redlight HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/7528.ts
+#EXTINF:-1,Adult | Hustler HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/7530.ts
+#EXTINF:-1,Adult | Sirina
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/3184.ts
+#EXTINF:-1,ADULT | SIRINA 2
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6614.ts
+#EXTINF:-1,Adult | PLAYBOY
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/9707.ts
+#EXTINF:-1,Adult | Venus
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/8647.ts
+#EXTINF:-1,Adult | Evil Angel TV
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12853.ts
+#EXTINF:-1,Adult | Reality Kings TV
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/12851.ts
+#EXTINF:-1,Adult | EROXX HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/9705.ts
+#EXTINF:-1,Adult | DORCEL HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/9706.ts
+#EXTINF:-1,Adult | Superone HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/9673.ts
+#EXTINF:-1,Adult | Dusk
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/9672.ts
+#EXTINF:-1,Adult | HOT
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/9671.ts
+#EXTINF:-1,Adult | Primafila Hot Club 8
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/3243.ts
+#EXTINF:-1,Adult | Primafila Hot Club 7
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/3242.ts
+#EXTINF:-1,Adult | Primafila Hot Club 5
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/3240.ts
+#EXTINF:-1,Adult | Primafila Hot Club 4
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/3239.ts
+#EXTINF:-1,Adult | Primafila Hot Club 3
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/3238.ts
+#EXTINF:-1,Adult | Primafila Hot Club 2
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/3237.ts
+#EXTINF:-1,Adult | Primafila Hot Club 1
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/3236.ts
+#EXTINF:-1,ADULT | Porn Mix 3
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6615.ts
+#EXTINF:-1,ADULT | Porn Mix 1
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6620.ts
+#EXTINF:-1,Adult | Pink Erotic 1
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/3225.ts
+#EXTINF:-1,Adult | Pink Erotic 2
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/3228.ts
+#EXTINF:-1,Adult | Pink Erotic 6
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/3227.ts
+#EXTINF:-1,Adult | PINK EROTIC 4
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13171.ts
+#EXTINF:-1,Adult | Pink Erotic 7
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/15860.ts
+#EXTINF:-1,Adult | Pink Erotic 8
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/15861.ts
+#EXTINF:-1,Adult | balkan erotic
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/3226.ts
+#EXTINF:-1,Adult | Jasim
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/3179.ts
+#EXTINF:-1,|XXX| HOT CLUB 1
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13433.ts
+#EXTINF:-1,|XXX| HOT CLUB 3
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13431.ts
+#EXTINF:-1,Adult | HOTCLUB 11
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13533.ts
+#EXTINF:-1,Adult | HOTCLUB 13
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13531.ts
+#EXTINF:-1,Adult | HOTCLUB 14
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13530.ts
+#EXTINF:-1,Adult | HOTCLUB 15
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13529.ts
+#EXTINF:-1,Adult | MEIDEN VAN HOLLAND (NL)
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13524.ts
+#EXTINF:-1,Adult | NUBILES CASTING
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13522.ts
+#EXTINF:-1,brazzers Europe
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13430.ts
+#EXTINF:-1,Dorcel HD
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13429.ts
+#EXTINF:-1,La France A Poil 1
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13435.ts
+#EXTINF:-1,La France A Poil 2
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13434.ts
+#EXTINF:-1,Penthouse
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13428.ts
+#EXTINF:-1,Penthouse HD1
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13436.ts
+#EXTINF:-1,Adult | Dusk Deluxe
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/6430.ts
+#EXTINF:-1,Adult | Beate-Uhse TV (20-06)
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13882.ts
+#EXTINF:-1,Adult | CentoXCento
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13887.ts
+#EXTINF:-1,Adult | Evil Angel
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13885.ts
+#EXTINF:-1,Adult | CENTO X CENTO
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/14496.ts
+#EXTINF:-1,Adult | PASSION XXX
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/14495.ts
+#EXTINF:-1,Adult | Passionxxx
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/14497.ts
+#EXTINF:-1,Adult | Sexto Senso
+http://62-210-248-96.rev.poneytelecom.eu:11000/live/john_holl_paidch/xPpHRGeGiK/13883.ts
